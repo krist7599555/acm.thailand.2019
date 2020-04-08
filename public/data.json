@@ -1,0 +1,183 @@
+[
+  { "page": 2, "type": "flag", "data": "China" },
+  {
+    "page": 3,
+    "type": "people",
+    "data": [{ "filename": 1, "team": "FaFaTa" }, { "filename": 2, "team": "Kokushi_Muso" }]
+  },
+  { "page": 4, "type": "flag", "data": "Indonesia" },
+  {
+    "page": 5,
+    "type": "people",
+    "data": [
+      { "filename": 3, "team": "Kthd Hypersakana" },
+      { "filename": 4, "team": "Maling AC" },
+      { "filename": 5, "team": "Minta Doa Ibu" }
+    ]
+  },
+  { "page": 6, "type": "flag", "data": "Japan" },
+  {
+    "page": 7,
+    "type": "people",
+    "data": [
+      { "filename": 6, "team": "TigerSone" },
+      { "filename": 7, "team": "girigiri" },
+      { "filename": 8, "team": "UT a.k.a Is" }
+    ]
+  },
+  {
+    "page": 8,
+    "type": "people",
+    "data": [
+      { "filename": 9, "team": "Aobayama_dropout" },
+      { "filename": 10, "team": "eiyatonari" },
+      { "filename": 11, "team": "MM" }
+    ]
+  },
+  { "page": 9, "type": "flag", "data": "Singapore" },
+  {
+    "page": 10,
+    "type": "people",
+    "data": [{ "filename": 12, "team": "3body3" }, { "filename": 13, "team": "7 Halim" }]
+  },
+  { "page": 11, "type": "flag", "data": "South Korea" },
+  {
+    "page": 12,
+    "type": "people",
+    "data": [{ "filename": 14, "team": "Cafe Mountain" }, { "filename": 15, "team": "Redshift" }]
+  },
+  { "page": 13, "type": "flag", "data": "Taiwan" },
+  {
+    "page": 14,
+    "type": "people",
+    "data": [{ "filename": 16, "team": "NoName" }, { "filename": 17, "team": "PolarSheep" }]
+  },
+  { "page": 15, "type": "flag", "data": "Thailand" },
+  {
+    "page": 16,
+    "type": "people",
+    "data": [
+      { "filename": 18, "team": "CPCU BigO" },
+      { "filename": 19, "team": "CPCU Debuggers" },
+      { "filename": 20, "team": "CPCU Mate" },
+      { "filename": 21, "team": "CPCU MoonOTea" }
+    ]
+  },
+  {
+    "page": 17,
+    "type": "people",
+    "data": [
+      { "filename": 22, "team": "CPCU P=NP if N=1" },
+      { "filename": 23, "team": "CPCU Passionate" },
+      { "filename": 24, "team": "CPCU Rival" }
+    ]
+  },
+  {
+    "page": 18,
+    "type": "people",
+    "data": [
+      { "filename": 25, "team": "CPCU waifu=senpai" },
+      { "filename": 26, "team": "statZa555Plus" },
+      { "filename": 27, "team": "XDDD" }
+    ]
+  },
+  {
+    "page": 19,
+    "type": "people",
+    "data": [
+      { "filename": 28, "team": "CSKU-HARDCODE" },
+      { "filename": 29, "team": "CSKU-null" },
+      { "filename": 30, "team": "Move 37" },
+      { "filename": 31, "team": "Poppy" }
+    ]
+  },
+  {
+    "page": 20,
+    "type": "people",
+    "data": [
+      { "filename": 32, "team": "CPESRC-2.0.1" },
+      { "filename": 33, "team": "CPESRC1" },
+      { "filename": 34, "team": "CPESRC2" }
+    ]
+  },
+  {
+    "page": 21,
+    "type": "people",
+    "data": [
+      { "filename": 35, "team": "3K" },
+      { "filename": 36, "team": "Carrot" },
+      { "filename": 37, "team": "Nekokaze" },
+      { "filename": 38, "team": "Variable." }
+    ]
+  },
+  {
+    "page": 22,
+    "type": "people",
+    "data": [
+      { "filename": 39, "team": "MUIC_civ" },
+      { "filename": 40, "team": "MUIC_PAN" },
+      { "filename": 41, "team": "MUIC_zzz" }
+    ]
+  },
+  {
+    "page": 23,
+    "type": "people",
+    "data": [
+      { "filename": 42, "team": "MUICT_Arbitrage0390" },
+      { "filename": 43, "team": "MUICT_One day" }
+    ]
+  },
+  {
+    "page": 24,
+    "type": "people",
+    "data": [
+      { "filename": 44, "team": "Animal will do" },
+      { "filename": 45, "team": "Brute Force" },
+      { "filename": 46, "team": "North Gear" }
+    ]
+  },
+  {
+    "page": 25,
+    "type": "people",
+    "data": [
+      { "filename": 47, "team": "ATM 2019" },
+      { "filename": 48, "team": "GeniusS" },
+      { "filename": 49, "team": "My mama don't like TU" },
+      { "filename": 50, "team": "PMN 2.5" }
+    ]
+  },
+  {
+    "page": 26,
+    "type": "people",
+    "data": [
+      { "filename": 51, "team": "ROMIO" },
+      { "filename": 52, "team": "SoftWhere?" },
+      { "filename": 53, "team": "You Had me at hello world." }
+    ]
+  },
+  { "page": 27, "type": "flag", "data": "Vietnam" },
+  {
+    "page": 28,
+    "type": "people",
+    "data": [
+      { "filename": 54, "team": "FPTU Ben10" },
+      { "filename": 55, "team": "FPTU JupyterLab" },
+      { "filename": 56, "team": "FPTU Nine One One" },
+      { "filename": 57, "team": "FPTU NP-hard" }
+    ]
+  },
+  {
+    "page": 29,
+    "type": "people",
+    "data": [{ "filename": 58, "team": "Bamboo" }, { "filename": 59, "team": "Polynomial" }]
+  },
+  {
+    "page": 30,
+    "type": "people",
+    "data": [
+      { "filename": 60, "team": "Battery" },
+      { "filename": 61, "team": "Monitor" },
+      { "filename": 62, "team": "HCMUS-Ascension" }
+    ]
+  }
+]

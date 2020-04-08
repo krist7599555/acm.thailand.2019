@@ -1,0 +1,198 @@
+[
+  { "id": 2, "type": "flag", "data": "China" },
+  {
+    "id": 3,
+    "type": "people",
+    "data": [
+      { "filename": "cn01p.JPG", "team": "FaFaTa" },
+      { "filename": "cn02p.JPG", "team": "Kokushi_Muso" }
+    ]
+  },
+  { "id": 4, "type": "flag", "data": "Indonesia" },
+  {
+    "id": 5,
+    "type": "people",
+    "data": [
+      { "filename": "id01p.JPG", "team": "Kthd Hypersakana" },
+      { "filename": "id02p.JPG", "team": "Maling AC" },
+      { "filename": "id03p.JPG", "team": "Minta Doa Ibu" }
+    ]
+  },
+  { "id": 6, "type": "flag", "data": "Japan" },
+  {
+    "id": 7,
+    "type": "people",
+    "data": [
+      { "filename": "jp01p.JPG", "team": "TigerSone" },
+      { "filename": "jp02p.JPG", "team": "girigiri" },
+      { "filename": "jp03p.JPG", "team": "UT a.k.a Is" }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "people",
+    "data": [
+      { "filename": "jp04p.JPG", "team": "Aobayama_dropout" },
+      { "filename": "jp05p.JPG", "team": "eiyatonari" },
+      { "filename": "jp06p.JPG", "team": "MM" }
+    ]
+  },
+  { "id": 9, "type": "flag", "data": "Singapore" },
+  {
+    "id": 10,
+    "type": "people",
+    "data": [
+      { "filename": "sg01p.JPG", "team": "3body3" },
+      { "filename": "sg02p.JPG", "team": "7 Halim" }
+    ]
+  },
+  { "id": 11, "type": "flag", "data": "South Korea" },
+  {
+    "id": 12,
+    "type": "people",
+    "data": [
+      { "filename": "kr01p.JPG", "team": "Cafe Mountain" },
+      { "filename": "kr02p.JPG", "team": "Redshift" }
+    ]
+  },
+  { "id": 13, "type": "flag", "data": "Taiwan" },
+  {
+    "id": 14,
+    "type": "people",
+    "data": [
+      { "filename": "tw01p.JPG", "team": "NoName" },
+      { "filename": "tw02p.JPG", "team": "PolarSheep" }
+    ]
+  },
+  { "id": 15, "type": "flag", "data": "Vietnam" },
+  {
+    "id": 16,
+    "type": "people",
+    "data": [
+      { "filename": "vn01p.JPG", "team": "FPTU Ben10" },
+      { "filename": "vn02p.JPG", "team": "FPTU JupyterLab" },
+      { "filename": "vn03p.JPG", "team": "FPTU Nine One One" },
+      { "filename": "vn04p.JPG", "team": "FPTU NP-hard" }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "people",
+    "data": [
+      { "filename": "vn05p.JPG", "team": "Bamboo" },
+      { "filename": "vn06p.JPG", "team": "Polynomial" }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "people",
+    "data": [
+      { "filename": "vn07p.JPG", "team": "Battery" },
+      { "filename": "vn08p.JPG", "team": "Monitor" },
+      { "filename": "vn09p.JPG", "team": "HCMUS-Ascension" }
+    ]
+  },
+  { "id": 19, "type": "flag", "data": "Thailand" },
+  {
+    "id": 20,
+    "type": "people",
+    "data": [
+      { "filename": "th01l.JPG", "team": "CSKU-HARDCODE" },
+      { "filename": "th02l.JPG", "team": "CSKU-null" },
+      { "filename": "th03l.JPG", "team": "Move 37" },
+      { "filename": "th04l.JPG", "team": "Poppy" }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "people",
+    "data": [
+      { "filename": "th05p.JPG", "team": "CPESRC-2.0.1" },
+      { "filename": "th06p.JPG", "team": "CPESRC1" },
+      { "filename": "th07p.JPG", "team": "CPESRC2" }
+    ]
+  },
+  {
+    "id": 22,
+    "type": "people",
+    "data": [
+      { "filename": "th08l.JPG", "team": "3K" },
+      { "filename": "th09l.JPG", "team": "Carrot" },
+      { "filename": "th10l.JPG", "team": "Nekokaze" },
+      { "filename": "th11l.JPG", "team": "Variable." }
+    ]
+  },
+  {
+    "id": 23,
+    "type": "people",
+    "data": [
+      { "filename": "th12p.JPG", "team": "MUIC_civ" },
+      { "filename": "th13p.JPG", "team": "MUIC_PAN" },
+      { "filename": "th14p.JPG", "team": "MUIC_zzz" }
+    ]
+  },
+  {
+    "id": 24,
+    "type": "people",
+    "data": [
+      { "filename": "th15p.JPG", "team": "MUICT_Arbitrage0390" },
+      { "filename": "th16p.JPG", "team": "MUICT_One day" }
+    ]
+  },
+  {
+    "id": 25,
+    "type": "people",
+    "data": [
+      { "filename": "th17p.JPG", "team": "Animal will do" },
+      { "filename": "th18p.JPG", "team": "Brute Force" },
+      { "filename": "th19p.JPG", "team": "North Gear" }
+    ]
+  },
+  {
+    "id": 26,
+    "type": "people",
+    "data": [
+      { "filename": "th20l.JPG", "team": "ATM 2019" },
+      { "filename": "th21l.JPG", "team": "GeniusS" },
+      { "filename": "th22l.JPG", "team": "My mama don't like TU" },
+      { "filename": "th23l.JPG", "team": "PMN 2.5" }
+    ]
+  },
+  {
+    "id": 27,
+    "type": "people",
+    "data": [
+      { "filename": "th24p.JPG", "team": "ROMIO" },
+      { "filename": "th25p.JPG", "team": "SoftWhere?" },
+      { "filename": "th26p.JPG", "team": "You Had me at hello world." }
+    ]
+  },
+  {
+    "id": 28,
+    "type": "people",
+    "data": [
+      { "filename": "th27l.JPG", "team": "CPCU BigO" },
+      { "filename": "th28l.JPG", "team": "CPCU Debuggers" },
+      { "filename": "th29l.JPG", "team": "CPCU Mate" },
+      { "filename": "th30l.JPG", "team": "CPCU MoonOTea" }
+    ]
+  },
+  {
+    "id": 29,
+    "type": "people",
+    "data": [
+      { "filename": "th31p.JPG", "team": "CPCU P=NP if N=1" },
+      { "filename": "th32p.JPG", "team": "CPCU Passionate" },
+      { "filename": "th33p.JPG", "team": "CPCU Rival" }
+    ]
+  },
+  {
+    "id": 30,
+    "type": "people",
+    "data": [
+      { "filename": "th34p.JPG", "team": "CPCU waifu=senpai" },
+      { "filename": "th35p.JPG", "team": "statZa555Plus" },
+      { "filename": "th36p.JPG", "team": "XDDD" }
+    ]
+  }
+]

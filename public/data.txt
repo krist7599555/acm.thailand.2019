@@ -1,0 +1,75 @@
+"China"
+{"id": 1, "team": "FaFaTa"}
+{"id": 2, "team": "Kokushi_Muso"}
+
+"Indonesia"
+{"id": 3, "team": "Kthd Hypersakana"}
+{"id": 4, "team": "Maling AC"}
+{"id": 5, "team": "Minta Doa Ibu"}
+
+"Japan"
+{"id": 6, "team": "TigerSone"}
+{"id": 7, "team": "girigiri"}
+{"id": 8, "team": "UT a.k.a Is"}
+{"id": 9, "team": "Aobayama_dropout"}
+{"id": 10, "team": "eiyatonari"}
+{"id": 11, "team": "MM"}
+
+"Singapore"
+{"id": 12, "team": "3body3"}
+{"id": 13, "team": "7 Halim"}
+{"id": 14, "team": "Cafe Mountain"}
+{"id": 15, "team": "Redshift"}
+
+"Taiwan"
+{"id": 16, "team": "NoName"}
+{"id": 17, "team": "PolarSheep"}
+
+"Thailand"
+{"id": 18, "team": "CPCU BigO"}
+{"id": 19, "team": "CPCU Debuggers"}
+{"id": 20, "team": "CPCU Mate"}
+{"id": 21, "team": "CPCU MoonOTea"}
+{"id": 22, "team": "CPCU P=NP if N=1"}
+{"id": 23, "team": "CPCU Passionate"}
+{"id": 24, "team": "CPCU Rival"}
+{"id": 25, "team": "CPCU waifu=senpai"}
+{"id": 26, "team": "statZa555Plus"}
+{"id": 27, "team": "XDDD"}
+{"id": 28, "team": "CSKU-HARDCODE"}
+{"id": 29, "team": "CSKU-null"}
+{"id": 30, "team": "Move 37"}
+{"id": 31, "team": "Poppy"}
+{"id": 32, "team": "CPESRC-2.0.1"}
+{"id": 33, "team": "CPESRC1"}
+{"id": 34, "team": "CPESRC2"}
+{"id": 35, "team": "3K"}
+{"id": 36, "team": "Carrot"}
+{"id": 37, "team": "Nekokaze"}
+{"id": 38, "team": "Variable."}
+{"id": 39, "team": "MUIC_civ"}
+{"id": 40, "team": "MUIC_PAN"}
+{"id": 41, "team": "MUIC_zzz"}
+{"id": 42, "team": "MUICT_Arbitrage0390"}
+{"id": 43, "team": "MUICT_One day"}
+{"id": 44, "team": "Animal will do"}
+{"id": 45, "team": "Brute Force"}
+{"id": 46, "team": "North Gear"}
+{"id": 47, "team": "ATM 2019"}
+{"id": 48, "team": "GeniusS"}
+{"id": 49, "team": "My mama don't like TU"}
+{"id": 50, "team": "PMN 2.5"}
+{"id": 51, "team": "ROMIO"}
+{"id": 52, "team": "SoftWhere?"}
+{"id": 53, "team": "You Had me at hello world."}
+
+"Vietnam"
+{"id": 54, "team": "FPTU Ben10"}
+{"id": 55, "team": "FPTU JupyterLab"}
+{"id": 56, "team": "FPTU Nine One One"}
+{"id": 57, "team": "FPTU NP-hard"}
+{"id": 58, "team": "Bamboo"}
+{"id": 59, "team": "Polynomial"}
+{"id": 60, "team": "Battery"}
+{"id": 61, "team": "Monitor"}
+{"id": 62, "team": "HCMUS-Ascension"}
