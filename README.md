@@ -1,4 +1,11 @@
-# acm
+# acm.thailand.2019
+
+slide for [acm thailand 2019](https://acm-icpc.eng.chula.ac.th)
+
+![screenshot1](src/assets/screenshot1.png)
+![screenshot2](src/assets/screenshot2.png)
+![screenshot3](src/assets/screenshot3.png)
+![screenshot4](src/assets/screenshot4.png)
 
 ## Project setup
 ```
