@@ -14,7 +14,7 @@
     "core-js": "^3.3.2",
     "escape-json-node": "^2.0.0",
     "hooper": "^0.3.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
     "vue": "^2.6.10",
