@@ -9,7 +9,7 @@
     "deploy": "yarn build && firebase deploy"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "buefy": "^0.8.6",
     "core-js": "^3.3.2",
     "escape-json-node": "^2.0.0",
